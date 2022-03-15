@@ -1,4 +1,4 @@
-March, 18
+March, 15
 
 Today I learnt creating own Ethereum(ERC20) Token. 
 I created Wednesday and Friday token following these steps:
