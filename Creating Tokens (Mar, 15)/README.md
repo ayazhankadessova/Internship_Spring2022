@@ -14,6 +14,7 @@ I created Wednesday and Friday token following these steps:
 
 Friday Token:
 https://ropsten.etherscan.io/address/0x03f59ba0aca71a243e08e9b26daa7e3e3897dd0d 
+
 Wednesday Token:
 https://ropsten.etherscan.io/address/0x89f6c396b7dc74ed49287644d89a6e18f02d15d3 
 
