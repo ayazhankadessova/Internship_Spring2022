@@ -115,7 +115,8 @@ const canvas = document.querySelector("canvas");
 
 9. Enter b101 -> npm run serve -> check host -> See changes!
 
-PICTUREEE
+<img src="images/Picture1.png" height="400" >
+
 ### 🔸 Rendering Babylon Scene in Vue
 
 1. Create a new class: src -> New Folder -> “BabylonExamples’ (here we are going to keep all TypeScript files, keep organized & abstract! -> New File -> “BasicScene.ts”
@@ -130,7 +131,8 @@ PICTUREEE
 • Import Basic Scene to BasicExamples
 3. Change mounted -> add BasicScene
 • Check -> purple box too small, nut we have CANVAS
-PICTURE
+
+<img src="images/Picture2.png" height="400" >
 
 4. Modifying CSS for the Canvas
 5. Want box to be 70% of tha scene
@@ -142,7 +144,7 @@ PICTURE
 • height:70%
 Save and see this :
 
-PICTURE 
+<img src="images/Picture3.png" height="400" >
 
 ### 🔸 Adding Camera and Hemisphere
 ### 🔸 Adding 3d Meshes 
@@ -159,6 +161,6 @@ If camera is in the ball, we won’t see it, bc inner portion of mesh is not ren
 
 Final product:
 
-PICTURE 
+<img src="images/Picture4.png" height="400" >
 
 It moves! done!
