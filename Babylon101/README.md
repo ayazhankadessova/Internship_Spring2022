@@ -8,7 +8,8 @@ The most important thing: Change Scene.ts and check in the local host if you hav
 *In the 3D virtual world shapes are built from meshes, lots of triangular facets joined together, each facet made from three vertices. Babylon. js provides for the creation of predefined meshes, of your own custom meshes and for importing meshes created by 3D design software.*
 Also, I used an HTML extension, very useful, so I didn’t have to import modules manually :)
 
-Resources:
+**Resources:**
+
 • https://www.babylonjs.com 
 
 • https://doc.babylonjs.com/divingDeeper/mesh/creation/set/sphere 
