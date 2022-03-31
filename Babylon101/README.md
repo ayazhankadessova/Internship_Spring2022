@@ -9,11 +9,15 @@ The most important thing: Change Scene.ts and check in the local host if you hav
 Also, I used an HTML extension, very useful, so I didn’t have to import modules manually :)
 
 Resources:
-https://www.babylonjs.com 
-https://doc.babylonjs.com/divingDeeper/mesh/creation/set/sphere 
-https://doc.babylonjs.com/divingDeeper/mesh/creation/set/ground 
-https://www.youtube.com/watch?v=NLZuUtiL50A 
-https://vuejs.org/
+• https://www.babylonjs.com 
+
+• https://doc.babylonjs.com/divingDeeper/mesh/creation/set/sphere 
+
+• https://doc.babylonjs.com/divingDeeper/mesh/creation/set/ground 
+
+• https://www.youtube.com/watch?v=NLZuUtiL50A 
+
+• https://vuejs.org/
 
 ### 🔸 Project Setup
 ```
