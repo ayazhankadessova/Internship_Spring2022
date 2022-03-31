@@ -163,4 +163,4 @@ Final product:
 
 <img src="images/Picture4.png" height="400" >
 
-It moves! done!
+**It moves! done!**
