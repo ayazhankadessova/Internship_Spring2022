@@ -52,11 +52,11 @@ To open project in VS code:
 
 ## 🔸 Step 3: CLIENT-SIDE
 
-1. Get the address that is claiming it is on the white list using leaf nodes at any index (or any other node, such as keccak256("0x8a61B674AEFE7e283f3879b4536E6956eE402669").
+1. Get the address that is claiming it is on the white list using leaf nodes at any index (or any other node, such as `keccak256("0x8a61B674AEFE7e283f3879b4536E6956eE402669")`).
 
 2. Print out the Hex Proof (merkle proof) required to derive the root hash of the Merkle Tree
 
-3. Verify if the address is actually in the Whitelist: console.log(merkleTree.verify(hexProof, claimingAddress, rootHash));
+3. Verify if the address is actually in the Whitelist: `console.log(merkleTree.verify(hexProof, claimingAddress, rootHash))`;
 
 ## 🔸 Step 4: Output
 
