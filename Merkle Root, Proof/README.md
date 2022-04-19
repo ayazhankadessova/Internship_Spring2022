@@ -5,13 +5,13 @@
 
 To understand how the code works, I recommend reading this article: https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9 . Basically, Merkle Trees is a tree-like structure where every node on the tree is represented by a value that is the result of some cryptographic hash function, and we will use this characteristic as the base of our code. For example, Hash 0 = Hash (0-0, 0-1).
 
-<img src="MerkleRoot.png" width="128"/>
+<img src="MerkleRoot.png" width="160"/>
 
 • **Why we need it**:
 
 To know the Merkle proof input for WhitelistMint Function to enable whitelist sale (before that run yarn whitelist-open --network truffle):
 
-<img src="FunctionW.png" width="128"/>
+<img src="FunctionW.png" width="160"/>
 
 ## 🔸 Step 1 (Optional - can create manually in VScode)
 
@@ -68,7 +68,7 @@ From the output, we can see:
 
 • Does the claiming address belong in the whitelist?
 
-<img src="Output.png" width="128"/>
+<img src="Output.png" width="160"/>
 
 
 ## 🔸 Resources:
