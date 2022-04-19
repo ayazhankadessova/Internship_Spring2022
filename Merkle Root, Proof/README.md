@@ -11,7 +11,7 @@ To understand how the code works, I recommend reading this article: https://medi
 
 To know the Merkle proof input for WhitelistMint Function to enable whitelist sale (before that run yarn whitelist-open --network truffle):
 
-<img src="FunctionW.png" width="450"/>
+<img src="FunctionW.png" width="500"/>
 
 ## 🔸 Step 1 (Optional - can create manually in VScode)
 
@@ -68,7 +68,7 @@ From the output, we can see:
 
 • Does the claiming address belong in the whitelist?
 
-<img src="Output.png" width="400"/>
+<img src="Output.png" width="450"/>
 
 
 ## 🔸 Resources:
