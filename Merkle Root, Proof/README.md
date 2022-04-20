@@ -16,7 +16,7 @@ To know the Merkle proof input for WhitelistMint Function to enable whitelist sa
 ## 🔸 Step 1 (Optional - can create manually in VScode)
 
 In Terminal:
-1) 
+1. 
 ```
 >> cd Desktop 
 >> mkdir merkle_tree
