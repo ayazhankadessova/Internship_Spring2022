@@ -108,7 +108,11 @@ let recipient = getAccount(0x03)
 4. npm install
 
 5. if you are on an Apple M1 machine, run the following as well
-# cd web/; npm i @next/swc-darwin-arm64; cd ..
+```
+>> cd web/ 
+>> npm i @next/swc-darwin-arm64
+>> cd ..
+```
 6. run the project on the Flow testnet
 
 npm run dev:testnet
@@ -128,10 +132,3 @@ npm run dev:testnet
 • https://www.onflow.org/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items
 
 • https://docs.onflow.org/cadence/tutorial/06-marketplace-compose/
-
-
-
-
-
-
-
