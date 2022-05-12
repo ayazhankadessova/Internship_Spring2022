@@ -71,7 +71,7 @@ ADMIN ACCOUNT - give ability to mint NFTs, pop that to a different location in s
 
 5. Deploy
 
-<img src="Deploy.png" height="400" >
+<img src="Deploy.png" height="300" >
 
 
 ## 🔸 Summary:
@@ -95,7 +95,7 @@ let recipient = getAccount(0x03)
 
 4. Result: "NFT ID 3 transferred from account 2 to account 1"
 
-<img src="Transfer.png" height="400" >
+<img src="Transfer.png" height="200" >
 
 ### ALso, deployed https://github.com/onflow/kitty-items just following steps. 
 
