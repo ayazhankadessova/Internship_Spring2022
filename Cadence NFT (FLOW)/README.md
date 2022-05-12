@@ -120,10 +120,10 @@ npm run dev:testnet
 
 ### 🔸Function Summaries
 
-<img src="Transaction1.png" height="400" >
-<img src="Transaction2.png" height="600" >
+<img src="Transaction1.png" height="450" >
+<img src="Transaction2.png" height="700" >
 <img src="Transaction3.png" height="350" >
-<img src="Transaction4.png" height="300" >
+<img src="Transaction4.png" height="450" >
 
 **🔸Resources:🔸**
 
