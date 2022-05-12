@@ -12,8 +12,7 @@ I just found two vids on how to create NFT Collection with it: https://www.youtu
 
 Templates: https://docs.onflow.org/cadence/tutorial/04-non-fungible-tokens/ .
 
-
-Flow’s programming language - Cadence
+Flow’s programming language - Cadence, Wallet - Blocto 
 
 What makes Flow unique: Validation process: Flow splits validation tasks into four different types of nodes: consensus, verification, execution, and collection. All four node types participate in the validation of each transaction. 
 
@@ -132,3 +131,5 @@ npm run dev:testnet
 • https://www.onflow.org/post/nft-marketplace-video-tutorial-flow-blockchain-build-develop-kitty-items
 
 • https://docs.onflow.org/cadence/tutorial/06-marketplace-compose/
+
+•  https://medium.com/blockick/blocto-a-step-by-step-guide-with-screenshots-2-buying-nfts-and-checking-your-crypto-assets-7035cbfec784
