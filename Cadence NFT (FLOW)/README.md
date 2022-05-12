@@ -118,6 +118,13 @@ npm run dev:testnet
 
 7. View log output: npx pm2 logs web
 
+### 🔸Function Summaries
+
+<img src="Transaction1.png" height="300" >
+<img src="Transaction2.png" height="300" >
+<img src="Transaction3.png" height="300" >
+<img src="Transaction4.png" height="300" >
+
 **🔸Resources:🔸**
 
 • https://www.youtube.com/watch?v=eqYKEKPQbWI
