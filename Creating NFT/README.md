@@ -1,6 +1,6 @@
 Using 8 layers from open-source to generate NFTs(eyes) and export their metadata through art engine
 Upload them and their metadata to Pinata, getting CID.
-Deploying Smart Contract with metadata of NFTs and Hidden Image to Rinkebu Test Net and minting NFTs.
+Deploying Smart Contract with metadata of NFTs and Hidden Image to Rinkeby Test Net and minting NFTs.
 
 Contract: https://rinkeby.etherscan.io/address/0x116eb5549d716c40f9d91c2a24cf8d7ad56cb7d2#writeContract 
 
