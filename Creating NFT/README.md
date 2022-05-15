@@ -11,8 +11,8 @@ NFT: https://testnets.opensea.io/collection/eyesmirrror (Only minted one hehe)
 Steps:
 1. Download node.js https://nodejs.org/en/download/releases/ or brew install node@14.18.2 (terminal)
 2. Check node & npm versions
->> node -v
->> npm -v
+> node -v
+> npm -v
 3. npm install
 4. Npm run generate -> create 5 NFTs -> found in build -> images -> json for every 5 NFTs w/ respected json meta data
 5. Change hastags for rarity
