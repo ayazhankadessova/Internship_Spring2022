@@ -5,7 +5,7 @@ I created Wednesday and Friday token following these steps:
 
 1. Connect to Rapsten test net on Metamask
 2. Ask for Tokens on Test Faucet https://bridge.umbria.network/staking-pool/ 
-3. Write Solidity Code on Remix based on IRS20 Token Standard
+3. Write Solidity Code on Remix based on ERS20 Token Standard
 4. Use Methods and Events from https://ethereum.org/en/developers/docs/standards/tokens/erc-20/ 
 4. Compile, fix bugs
 5. Deploy
