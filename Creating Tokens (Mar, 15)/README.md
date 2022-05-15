@@ -3,7 +3,7 @@ March, 15
 Today I learnt creating own Ethereum(ERC20) Token. 
 I created Wednesday and Friday token following these steps:
 
-1. Connect to Rapsten test net on Metamask
+1. Connect to Ropsten test net on Metamask
 2. Ask for Tokens on Test Faucet https://bridge.umbria.network/staking-pool/ 
 3. Write Solidity Code on Remix based on ERS20 Token Standard
 4. Use Methods and Events from https://ethereum.org/en/developers/docs/standards/tokens/erc-20/ 
