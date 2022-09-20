@@ -1,6 +1,6 @@
 ## 🔸Internship
 
-Projects are done during the internship at Alphalex Capital Management from March-May, 2022.
+Individual Projects done during the internship at Alphalex Capital Management from March-May, 2022 that are allowed to shared.
 
 ### 1. *Creating Token(Mar, 15)*
 
